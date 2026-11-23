@@ -1,0 +1,5 @@
+# one pattern per line, measures separated by |
+# w h q e s = whole half quarter eighth sixteenth; r prefix = rest; . = dotted
+# ^ head above the line, _ head below (used by --sticking)
+1: e^ e_ e^ e_ e^ e_ e^ e_ | e^ e_ s^ s_ s^ s_ q^ rq
+2: s s s s q s s s s q | s s s s q s s s s q

@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+
+# generated audio
+*.mp3
+*.wav
+
+# your own sheets and what is generated from them (may be copyrighted)
+*.png
+*.jpg
+*.jpeg
+*.musicxml
+sheets/
+output/
+!examples/*.txt
