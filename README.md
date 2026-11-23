@@ -1,4 +1,4 @@
-# rhythm-to-mp3
+# Snare Music Sheet to MP3
 
 > **Status: alpha.** This tool has not been battle-tested. It was developed and
 > checked against a single sheet, so expect misreadings on other layouts, fonts
