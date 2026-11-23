@@ -1,5 +1,10 @@
 # rhythm-to-mp3
 
+> **Status: alpha.** This tool has not been battle-tested. It was developed and
+> checked against a single sheet, so expect misreadings on other layouts, fonts
+> and resolutions. Always check the result with `--debug-image` and listen to the
+> output before trusting it. Bug reports and sample sheets are welcome.
+
 Turn single-line drum rudiment sheets (PNG) into audio so you can hear the rhythm.
 Also reads MusicXML and a simple text notation.
 
