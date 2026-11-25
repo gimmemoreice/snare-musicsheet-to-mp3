@@ -1,7 +1,7 @@
 # Roadmap: rhythm-to-mp3
 
 Status: **alpha**. Only tested on one sheet. Reliability comes before new features.
-## Done
+## Phase 0: Proof of concept
 
 - [x] Read single-line drum notation from a PNG (note values via beams, stub beams, rests, hand position)
 - [x] Read MusicXML and a simple text notation
